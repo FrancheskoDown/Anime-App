@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Anime-Service.WebAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Anime-Service.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5130a412606cb38e6d75cc9eb3c2b5d703b24e3b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Anime-Service.WebAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Anime-Service.WebAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("Anime-Service.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Anime-Service.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
